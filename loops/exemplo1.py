@@ -1,6 +1,6 @@
 # Solicitar 10 numeros e verificar se sao pares ou impares
 
-contador = 1
+contador = 1                # variavel contadora
 while contador <= 10:
 
     numero = int(input('Digite um numero'))
